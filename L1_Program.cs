@@ -109,8 +109,10 @@ namespace Project01_Introduction
       Debug.WriteLine("Tax liability is " + taxLiability);
 
 
-      // Exercise 2
-      // Input a number (n) from the user and check if it is even or odd.
+            // Exercise 2
+            // Input a number (n) from the user and check if it is even or odd.
+            Console.WriteLine("Please Enter a Number to check if odd or even");
+
 
       // Write your code here
 
